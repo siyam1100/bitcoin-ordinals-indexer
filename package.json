@@ -1,0 +1,12 @@
+{
+  "name": "bitcoin-ordinals-indexer",
+  "version": "1.0.0",
+  "description": "Bitcoin Inscription and Ordinal indexer",
+  "main": "indexer.js",
+  "dependencies": {
+    "bitcoinjs-lib": "^6.1.5",
+    "electrum-client": "^1.1.5",
+    "sqlite3": "^5.1.7",
+    "dotenv": "^16.4.5"
+  }
+}
